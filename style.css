@@ -1,0 +1,85 @@
+.hero-gradient {
+  background: linear-gradient(to right, #3270f5, #7131e1);
+}
+
+.nav-tech{
+    font-weight: 800;
+}
+
+.text-p{
+    font-size: 12.5px;
+    font-weight: 300;
+}
+
+.tech-h1{
+    font-weight: 1000;
+}
+
+.vaga-p{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.text-destaque{
+    font-weight: 900;
+}
+
+.p-destaque{
+    font-size: 15px;
+    color: rgb(93, 92, 92);
+}
+
+.p-card{
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.card{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-1{
+    border: 4px black;
+}
+
+.bg-tertiary {
+  background-color: #f8f6f6;
+}
+
+.h3-lab{
+    font-weight: 800;
+}
+
+.p-lab{
+    font-size: 15px;
+}
+
+.title-lab{
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.text-lab{
+    font-size: 13px;
+    
+}
+
+.p-card-lab {
+    font-size: 15px;
+    background-color: #9ebbf8;
+    border: 1.6px solid #7294de;
+    box-shadow: 0px 0px 8px #4f80e9a6;
+}
+
+.div-cont{
+    display: flex;
+    justify-content: space-between;
+}
